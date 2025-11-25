@@ -290,6 +290,7 @@ Brazil
 - :white_check_mark: [HubStaff - No Excuses: The Definitive Guide to Managing a Remote Team](https://blog.hubstaff.com/remote-team-management/)
 - :white_check_mark: [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
 - :white_check_mark: [Twist - Remote Work Guideline](https://twist.com/remote-work-guides/remote-work)
+- :white_check_mark: [AmazingFood.ai - Food Worldwide](https://www.amazingfood.ai/)
 
 ## News
 
@@ -373,6 +374,11 @@ Portuguese Only
 #### Events
 - :white_circle: [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
 - :white_circle: [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
+
+#### Great Tools
+
+- :white_circle: [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
+- :white_check_mark: [QR Smart Code - Track your QRs](https://www.qrsmartcode.com/)
 
 ## Contributors ✨
 
